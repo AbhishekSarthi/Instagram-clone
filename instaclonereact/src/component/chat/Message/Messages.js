@@ -6,7 +6,7 @@ const Messages = () => {
     <div className='_message'>
     <div className="_msg">
     <Avatar/>
-    <div>Bhagwat Rawat</div>
+    <div>Abhishek Sarthi</div>
     </div>
     </div>
   )

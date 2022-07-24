@@ -8,7 +8,7 @@ const PersonChat = (props) => {
     <div className="_PersonChat">
     <div><Avatar/></div>
     <div className="ml-3">
-    <div>Bhagwwat rawat</div>
+    <div>Abhishek Sarthi</div>
     <div>last message</div>
     </div>
     </div>
